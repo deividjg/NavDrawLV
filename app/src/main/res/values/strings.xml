@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavDrawLV</string>
+    <string name="dw_abierto">Abierto</string>
+    <string name="dw_cerradpo">Cerrado</string>
+</resources>
